@@ -1,0 +1,20 @@
+# 本地飞书同步追踪记录
+# 内含真实知识空间 ID、文档 token、项目名与本机路径，禁止公开
+sync_tracker.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 运行产物
+charts/
+extract.json
+extract_cache.json
+report.json
+
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
